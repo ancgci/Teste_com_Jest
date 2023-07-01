@@ -1,0 +1,6 @@
+npm install --save-dev jest
+Criar uma função para aplicar o teste.
+Criar um arquivo x.test.js com o código do teste.
+Set json arquivo (test: jest)
+
+Fonte: https://jestjs.io/pt-BR/docs/getting-started
